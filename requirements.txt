@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+missingno
+wordcloud
+scikit-learn
+xgboost
+lightgbm
+catboost
+pycaret
+autogluon.tabular
+bayesian-optimization
+hyperopt
+kagglehub
+ipython
